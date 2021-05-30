@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there! , I'm Abey George <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" />
+
+## I'm a second year IT student
+
+![](https://komarev.com/ghpvc/?username=gabey14&color=red&style=plastic&label=visitors)
+
+
+
+
 
 <!--
 **gabey14/gabey14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
