@@ -37,9 +37,9 @@
 ![html5](https://img.icons8.com/nolan/64/html-5.png?style=for-the-badge&logo=c++&logoColor=white)
 ![css](https://img.icons8.com/nolan/64/css-filetype.png?style=for-the-badge&logo=c++&logoColor=white)
 
-### Back-End Development <img align="center" src="https://img.icons8.com/nolan/32/backend-development.png"/>
+<!-- ### Back-End Development <img align="center" src="https://img.icons8.com/nolan/32/backend-development.png"/> -->
 
-![]
+
 
 ---
 [linkedin]: https://linkedin.com/in/gabey14
