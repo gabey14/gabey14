@@ -30,6 +30,7 @@
 ![c++](https://img.icons8.com/color/64/000000/c-plus-plus-logo.png?style=for-the-badge&logo=c++&logoColor=white) &nbsp;
 ![typescript](https://img.icons8.com/color/64/000000/typescript.png?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
 ![dart](https://img.icons8.com/color/64/000000/dart.png?style=for-the-badge&logo=dart&logoColor=white) &nbsp;
+![php](https://img.icons8.com/officel/64/000000/php-logo.png?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 ![R](https://img.icons8.com/windows/64/4a90e2/r-project.png?style=for-the-badge&logo=c++&logoColor=white) &nbsp;
 
 ### Cross Platform Development <img align="center" src="https://img.icons8.com/nolan/32/computer.png"/>
@@ -88,6 +89,9 @@
 
 ## 📈 Stats
 ![Abey's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabey14&count_private=true&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabey14&layout=compact&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%&langs_count=8)
+
 
 
 [linkedin]: https://linkedin.com/in/gabey14
