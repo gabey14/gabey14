@@ -84,6 +84,7 @@
 ![nvidia](https://img.icons8.com/fluent/64/000000/nvidia.png?style=for-the-badge&logo=nvidia&logoColor=white) 
 ![acer](https://www.vectorlogo.zone/logos/acer/acer-ar21.svg?style=for-the-badge&logo=acer&logoColor=white)
 ![logitech](https://img.icons8.com/nolan/60/4a90e2/logitech.png?style=for-the-badge&logo=logitech&logoColor=white)
+![vscode](https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png?style=for-the-badge&logo=vscode&logoColor=white)
 
 ---
 
