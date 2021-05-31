@@ -90,7 +90,7 @@
 ## 📈 Stats
 ![Abey's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabey14&count_private=true&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabey14&layout=compact&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabey14&layout=compact&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%&langs_count=8&card_width=450&hide=hack%0A,CMake%0A)
 
 
 
