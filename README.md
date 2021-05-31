@@ -77,7 +77,15 @@
 
 ---
 
-## 🖥️ Workspace Setup
+## 🖥️ Workspace <img align="center" src="https://img.icons8.com/nolan/32/linux--v2.png"/>
+![ubuntu](https://img.icons8.com/color/64/000000/ubuntu--v1.png?style=for-the-badge&logo=ubuntu&logoColor=white) &nbsp;
+![intel](https://www.vectorlogo.zone/logos/intel/intel-icon.svg?style=for-the-badge&logo=intel&logoColor=white) &nbsp;
+![nvidia](https://img.icons8.com/fluent/64/000000/nvidia.png?style=for-the-badge&logo=nvidia&logoColor=white) 
+![acer](https://www.vectorlogo.zone/logos/acer/acer-ar21.svg?style=for-the-badge&logo=acer&logoColor=white)
+![logitech](https://img.icons8.com/nolan/60/4a90e2/logitech.png?style=for-the-badge&logo=logitech&logoColor=white)
+
+
+
 ---
 [linkedin]: https://linkedin.com/in/gabey14
 [twitter]: https://twitter.com/Abeygeorge14
