@@ -87,7 +87,7 @@
 ---
 
 ## 📈 Stats
-[![Abey's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabey14&count_private=true&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%)](https://github.com/gabey14/github-readme-stats)
+[![Abey's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabey14&count_private=true&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%)]
 
 
 [linkedin]: https://linkedin.com/in/gabey14
