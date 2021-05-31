@@ -84,9 +84,12 @@
 ![acer](https://www.vectorlogo.zone/logos/acer/acer-ar21.svg?style=for-the-badge&logo=acer&logoColor=white)
 ![logitech](https://img.icons8.com/nolan/60/4a90e2/logitech.png?style=for-the-badge&logo=logitech&logoColor=white)
 
-
-
 ---
+
+## 📈 Stats
+[![Abey's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabey14&count_private=true&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%)](https://github.com/gabey14/github-readme-stats)
+
+
 [linkedin]: https://linkedin.com/in/gabey14
 [twitter]: https://twitter.com/Abeygeorge14
 [instagram]: https://www.instagram.com/g_abey
