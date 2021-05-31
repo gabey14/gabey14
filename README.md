@@ -3,7 +3,7 @@
 
 
 
-## I'm a Second Year IT student
+## I'm a Final Year IT student
 - 👨‍💻 Getting Stronger at DSA and learning new languages.
 - 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop learning and creating new ideas. <br />
@@ -24,23 +24,60 @@
 
 ### Languages <img align="center" src="https://img.icons8.com/nolan/32/programming.png"/>
 
-![python](https://img.icons8.com/nolan/64/python.png?style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.icons8.com/nolan/64/java-coffee-cup-logo.png?style=for-the-badge&logo=java&logoColor=white)
-![javascript](https://img.icons8.com/nolan/64/js.png?style=for-the-badge&logo=javascript&logoColor=white)
-![c++](https://img.icons8.com/nolan/64/c-plus-plus.png?style=for-the-badge&logo=c++&logoColor=white)
-![xml](https://img.icons8.com/nolan/64/xml.png?style=for-the-badge&logo=c++&logoColor=white)
+![python](https://img.icons8.com/color/64/000000/python.png?style=for-the-badge&logo=python&logoColor=white) &nbsp;
+![java](https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png?style=for-the-badge&logo=java&logoColor=white) &nbsp;
+![javascript](https://img.icons8.com/color/64/000000/javascript.png?style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
+![c++](https://img.icons8.com/color/64/000000/c-plus-plus-logo.png?style=for-the-badge&logo=c++&logoColor=white) &nbsp;
+![typescript](https://img.icons8.com/color/64/000000/typescript.png?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
+![dart](https://img.icons8.com/color/64/000000/dart.png?style=for-the-badge&logo=dart&logoColor=white) &nbsp;
+![R](https://img.icons8.com/windows/64/4a90e2/r-project.png?style=for-the-badge&logo=c++&logoColor=white) &nbsp;
+
+### Cross Platform Development <img align="center" src="https://img.icons8.com/nolan/32/computer.png"/>
+
+![flutter](https://img.icons8.com/color/64/000000/flutter.png?style=for-the-badge&logo=flutter&logoColor=white) &nbsp;
+![reactnative](https://img.icons8.com/color/64/000000/react-native.png?style=for-the-badge&logo=reactnative&logoColor=white) &nbsp;
+![electronjs](https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg?style=for-the-badge&logo=reactnative&logoColor=white) &nbsp;
+![qt](https://img.icons8.com/ios-filled/64/26e07f/qt.png?style=for-the-badge&logo=reactnative&logoColor=white) &nbsp;
+
 
 ### Front-End Development <img align="center" src="https://img.icons8.com/nolan/32/source-code.png"/>
 
-![reactjs](https://img.icons8.com/nolan/64/react-native.png?style=for-the-badge&logo=c++&logoColor=white)
-![angularjs](https://img.icons8.com/nolan/64/angularjs.png?style=for-the-badge&logo=c++&logoColor=white)
-![html5](https://img.icons8.com/nolan/64/html-5.png?style=for-the-badge&logo=c++&logoColor=white)
-![css](https://img.icons8.com/nolan/64/css-filetype.png?style=for-the-badge&logo=c++&logoColor=white)
+![reactjs](https://img.icons8.com/plasticine/64/000000/react.png?style=for-the-badge&logo=reactjs&logoColor=white) &nbsp;
+![angularjs](https://img.icons8.com/color/64/000000/angularjs.png?style=for-the-badge&logo=angularjs&logoColor=white) &nbsp;
+![redux](https://img.icons8.com/color/64/000000/redux.png?style=for-the-badge&logo=redux&logoColor=white) &nbsp;
+![html5](https://img.icons8.com/color/64/000000/html-5--v1.png?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![css](https://img.icons8.com/color/64/000000/css3.png?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![sass](https://img.icons8.com/color/64/000000/sass.png?style=for-the-badge&logo=sass&logoColor=white) &nbsp;
+![bootstrap](https://img.icons8.com/color/64/000000/bootstrap.png?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
+![materialui](https://img.icons8.com/color/64/000000/material-ui.png?style=for-the-badge&logo=materialui&logoColor=white) &nbsp;
+![jquery](https://img.icons8.com/ios-filled/64/4a90e2/jquery.png?style=for-the-badge&logo=jquery&logoColor=white) &nbsp;
 
-<!-- ### Back-End Development <img align="center" src="https://img.icons8.com/nolan/32/backend-development.png"/> -->
+### Back-End Development <img align="center" src="https://img.icons8.com/nolan/32/backend-development.png"/>
+![nodejs](https://img.icons8.com/color/64/000000/nodejs.png?style=for-the-badge&logo=nodejs&logoColor=white) &nbsp;
+![flask](https://img.icons8.com/nolan/64/ffffff/flask.png?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
+![django](https://img.icons8.com/color/64/000000/django.png?style=for-the-badge&logo=django&logoColor=white)
 
+### Database  <img align="center" src="https://img.icons8.com/nolan/32/database.png"/>
+![mongo](https://img.icons8.com/color/64/000000/mongodb.png?style=for-the-badge&logo=mongo&logoColor=white) &nbsp;
+![mysql](https://img.icons8.com/color/64/000000/mysql-logo.png?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
+![postgresql](https://img.icons8.com/color/64/000000/postgreesql.png?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
+![sqlserver](https://img.icons8.com/color/64/000000/microsoft-sql-server.png?style=for-the-badge&logo=sqlserver&logoColor=white) &nbsp;
+![sqlite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg?style=for-the-badge&logo=reactnative&logoColor=white) 
+![oracle](https://img.icons8.com/plasticine/64/000000/oracle-pl-sql--v3.png?style=for-the-badge&logo=oracle&logoColor=white) 
+ 
+### Platform as a Service (PaaS)  <img align="center" src="https://img.icons8.com/nolan/32/cloud-sync.png"/>
+![netlify](https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg?style=for-the-badge&logo=netlify&logoColor=white) &nbsp;
+![heroku](https://img.icons8.com/color/64/000000/heroku.png?style=for-the-badge&logo=heroku&logoColor=white) &nbsp;
+![firebase](https://img.icons8.com/color/64/000000/firebase.png?style=for-the-badge&logo=firebase&logoColor=white) &nbsp;
+![docker](https://img.icons8.com/color/64/000000/docker.png?style=for-the-badge&logo=docker&logoColor=white) &nbsp;
 
+### Version Control System (VCS) <img align="center" src="https://img.icons8.com/nolan/32/server.png"/>
+![git](https://img.icons8.com/color/64/000000/git.png?style=for-the-badge&logo=git&logoColor=white) &nbsp;
+![github](https://img.icons8.com/material-sharp/64/000000/github.png?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+## 🖥️ Workspace Setup
 ---
 [linkedin]: https://linkedin.com/in/gabey14
 [twitter]: https://twitter.com/Abeygeorge14
