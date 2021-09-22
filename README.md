@@ -27,6 +27,7 @@
 ![python](https://img.icons8.com/color/64/000000/python.png?style=for-the-badge&logo=python&logoColor=white) &nbsp;
 ![java](https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png?style=for-the-badge&logo=java&logoColor=white) &nbsp;
 ![javascript](https://img.icons8.com/color/64/000000/javascript.png?style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
+![Go](https://img.icons8.com/color/64/000000/golang.png?style=for-the-badge&logo=go&logoColor=white) &nbsp;
 ![c++](https://img.icons8.com/color/64/000000/c-plus-plus-logo.png?style=for-the-badge&logo=c++&logoColor=white) &nbsp;
 ![typescript](https://img.icons8.com/color/64/000000/typescript.png?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
 ![dart](https://img.icons8.com/color/64/000000/dart.png?style=for-the-badge&logo=dart&logoColor=white) &nbsp;
