@@ -57,7 +57,7 @@
 
 ### Back-End Development <img align="center" src="https://img.icons8.com/nolan/32/backend-development.png"/>
 ![nodejs](https://img.icons8.com/color/64/000000/nodejs.png?style=for-the-badge&logo=nodejs&logoColor=white) &nbsp;
-![flask](https://img.icons8.com/nolan/64/ffffff/flask.png?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
+![flask](https://img.icons8.com/color/64/000000/flask.png?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
 ![django](https://img.icons8.com/color/64/000000/django.png?style=for-the-badge&logo=django&logoColor=white)
 
 ### Database  <img align="center" src="https://img.icons8.com/nolan/32/database.png"/>
