@@ -14,7 +14,7 @@
 [<img align="left" alt="abey | Twitter" height="30px" src="https://img.icons8.com/nolan/64/twitter-squared.png"/>][twitter]
 [<img align="left" alt="abey | Instagram" height="30px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>][instagram]
 [<img align="left" alt="abey | Github" height="30px" src="https://img.icons8.com/nolan/64/github.png"/>][github]
-[<img align="left" alt="abey | Gmail" height="30px" src="https://img.icons8.com/nolan/50/gmail-new.png"/>][gmail]
+[<img align="left" alt="abey | Gmail" height="30px" src="https://img.icons8.com/nolan/64/gmail.png"/>][gmail]
 <br />
 
 ---
