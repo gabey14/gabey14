@@ -28,10 +28,10 @@
 ![javascript](https://img.icons8.com/color/64/000000/javascript.png?style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
 ![Go](https://img.icons8.com/color/64/000000/golang.png?style=for-the-badge&logo=go&logoColor=white) &nbsp;
 ![c++](https://img.icons8.com/color/64/000000/c-plus-plus-logo.png?style=for-the-badge&logo=c++&logoColor=white) &nbsp;
-<!-- ![typescript](https://img.icons8.com/color/64/000000/typescript.png?style=for-the-badge&logo=typescript&logoColor=white) &nbsp; -->
 ![dart](https://img.icons8.com/color/64/000000/dart.png?style=for-the-badge&logo=dart&logoColor=white) &nbsp;
 ![php](https://img.icons8.com/officel/64/000000/php-logo.png?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 ![R](https://img.icons8.com/windows/64/4a90e2/r-project.png?style=for-the-badge&logo=R&logoColor=white)
+<!-- ![typescript](https://img.icons8.com/color/64/000000/typescript.png?style=for-the-badge&logo=typescript&logoColor=white) &nbsp; -->
 <!-- ![Solidity](https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_light_solidity_icon_130436.png?style=for-the-badge&logo=sol&logoColor=white) &nbsp; -->
 
 ### Cross Platform Development <img align="center" src="https://img.icons8.com/nolan/32/computer.png"/>
