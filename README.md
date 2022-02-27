@@ -28,23 +28,23 @@
 ![javascript](https://img.icons8.com/color/64/000000/javascript.png?style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
 ![Go](https://img.icons8.com/color/64/000000/golang.png?style=for-the-badge&logo=go&logoColor=white) &nbsp;
 ![c++](https://img.icons8.com/color/64/000000/c-plus-plus-logo.png?style=for-the-badge&logo=c++&logoColor=white) &nbsp;
-![typescript](https://img.icons8.com/color/64/000000/typescript.png?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
+<!-- ![typescript](https://img.icons8.com/color/64/000000/typescript.png?style=for-the-badge&logo=typescript&logoColor=white) &nbsp; -->
 ![dart](https://img.icons8.com/color/64/000000/dart.png?style=for-the-badge&logo=dart&logoColor=white) &nbsp;
 ![php](https://img.icons8.com/officel/64/000000/php-logo.png?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 ![R](https://img.icons8.com/windows/64/4a90e2/r-project.png?style=for-the-badge&logo=R&logoColor=white)
-![Solidity](https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_light_solidity_icon_130436.png?style=for-the-badge&logo=sol&logoColor=white) &nbsp;
+<!-- ![Solidity](https://cdn.icon-icons.com/icons2/2107/PNG/64/file_type_light_solidity_icon_130436.png?style=for-the-badge&logo=sol&logoColor=white) &nbsp; -->
 
 ### Cross Platform Development <img align="center" src="https://img.icons8.com/nolan/32/computer.png"/>
 
 ![flutter](https://img.icons8.com/color/64/000000/flutter.png?style=for-the-badge&logo=flutter&logoColor=white) &nbsp;
-![reactnative](https://img.icons8.com/color/64/000000/react-native.png?style=for-the-badge&logo=reactnative&logoColor=white) &nbsp;
-![electronjs](https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg?style=for-the-badge&logo=reactnative&logoColor=white) &nbsp;
-![qt](https://img.icons8.com/ios-filled/64/26e07f/qt.png?style=for-the-badge&logo=reactnative&logoColor=white) &nbsp;
+<!-- ![reactnative](https://img.icons8.com/color/64/000000/react-native.png?style=for-the-badge&logo=reactnative&logoColor=white) &nbsp; -->
+<!-- ![electronjs](https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg?style=for-the-badge&logo=reactnative&logoColor=white) &nbsp; -->
+<!-- ![qt](https://img.icons8.com/ios-filled/64/26e07f/qt.png?style=for-the-badge&logo=reactnative&logoColor=white) &nbsp; -->
 
 ### Front-End Development <img align="center" src="https://img.icons8.com/nolan/32/source-code.png"/>
 
 ![reactjs](https://img.icons8.com/plasticine/64/000000/react.png?style=for-the-badge&logo=reactjs&logoColor=white) &nbsp;
-![angularjs](https://img.icons8.com/color/64/000000/angularjs.png?style=for-the-badge&logo=angularjs&logoColor=white) &nbsp;
+<!-- ![angularjs](https://img.icons8.com/color/64/000000/angularjs.png?style=for-the-badge&logo=angularjs&logoColor=white) &nbsp; -->
 ![redux](https://img.icons8.com/color/64/000000/redux.png?style=for-the-badge&logo=redux&logoColor=white) &nbsp;
 ![html5](https://img.icons8.com/color/64/000000/html-5--v1.png?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![css](https://img.icons8.com/color/64/000000/css3.png?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
@@ -56,8 +56,8 @@
 ### Back-End Development <img align="center" src="https://img.icons8.com/nolan/32/backend-development.png"/>
 
 ![nodejs](https://img.icons8.com/color/64/000000/nodejs.png?style=for-the-badge&logo=nodejs&logoColor=white) &nbsp;
-![flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
-![django](https://img.icons8.com/color/64/000000/django.png?style=for-the-badge&logo=django&logoColor=white)
+<!-- ![flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg?style=for-the-badge&logo=flask&logoColor=white) &nbsp; -->
+<!-- ![django](https://img.icons8.com/color/64/000000/django.png?style=for-the-badge&logo=django&logoColor=white) -->
 
 ### Database <img align="center" src="https://img.icons8.com/nolan/32/database.png"/>
 
@@ -100,7 +100,7 @@
 
 ![Abey's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabey14&count_private=true&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabey14&layout=compact&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%&langs_count=8&card_width=450&hide=hack%0A,CMake%0A)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabey14&layout=compact&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%&langs_count=10&card_width=450&hide=hack%0A,CMake%0A)
 
 [linkedin]: https://linkedin.com/in/gabey14
 [twitter]: https://twitter.com/Abeygeorge14
