@@ -2,7 +2,7 @@
 
 ## I'm a Final Year IT student
 
-- 👨‍💻 Getting Stronger at DSA and learning Golang along with Solidity.
+- 👨‍💻 Getting Stronger at DSA and learning Golang along with Devops.
 - 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop learning and creating new ideas. <br />
 
