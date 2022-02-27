@@ -44,7 +44,6 @@
 ### Front-End Development <img align="center" src="https://img.icons8.com/nolan/32/source-code.png"/>
 
 ![reactjs](https://img.icons8.com/plasticine/64/000000/react.png?style=for-the-badge&logo=reactjs&logoColor=white) &nbsp;
-<!-- ![angularjs](https://img.icons8.com/color/64/000000/angularjs.png?style=for-the-badge&logo=angularjs&logoColor=white) &nbsp; -->
 ![redux](https://img.icons8.com/color/64/000000/redux.png?style=for-the-badge&logo=redux&logoColor=white) &nbsp;
 ![html5](https://img.icons8.com/color/64/000000/html-5--v1.png?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![css](https://img.icons8.com/color/64/000000/css3.png?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
@@ -52,6 +51,7 @@
 ![bootstrap](https://img.icons8.com/color/64/000000/bootstrap.png?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
 ![materialui](https://img.icons8.com/color/64/000000/material-ui.png?style=for-the-badge&logo=materialui&logoColor=white) &nbsp;
 ![jquery](https://img.icons8.com/ios-filled/64/4a90e2/jquery.png?style=for-the-badge&logo=jquery&logoColor=white) &nbsp;
+<!-- ![angularjs](https://img.icons8.com/color/64/000000/angularjs.png?style=for-the-badge&logo=angularjs&logoColor=white) &nbsp; -->
 
 ### Back-End Development <img align="center" src="https://img.icons8.com/nolan/32/backend-development.png"/>
 
