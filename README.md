@@ -1,8 +1,8 @@
 # Hi there! , I'm Abey George <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" /> <img align="center" src="https://komarev.com/ghpvc/?username=gabey14&color=red&style=plastic&label=VISITORS" />
 
-## I'm a Final Year IT student
+## A Graduate of St. Xavier's College, Mumbai with a Bachelor's Degree in Information Technology with a keen interest in Technology, Web Development, Deep Learning, Cloud Computing & Linux.
 
-- 👨‍💻 Getting Stronger at DSA and learning Golang along with Devops.
+- 👨‍💻 Getting Stronger at DSA with Java & learning Golang along with Devops & Cloud.
 - 📚 I’m currently learning everything about Frontend and Backend technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop learning and creating new ideas. <br />
 
@@ -101,6 +101,10 @@
 ![Abey's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabey14&count_private=true&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabey14&layout=compact&theme=blueberry&show_icons=true&hide_border=true&border_radius=20%&langs_count=10&card_width=450&hide=hack%0A,CMake%0A,CSS%0A,HTML%0A,Dart%0A,Batchfile%0A,Swift%0A,Kotlin%0A,Objective-C%0A)
+
+
+[![Data Card for Spotify](https://www.data-card-for-spotify.com/api/card?user_id=qd4pmi7nvkp4x7mev9orpq3p7)](https://www.data-card-for-spotify.com/card?user_id=qd4pmi7nvkp4x7mev9orpq3p7&show_border=1)
+
 
 [linkedin]: https://linkedin.com/in/gabey14
 [twitter]: https://twitter.com/Abeygeorge14
